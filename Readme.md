@@ -18,4 +18,4 @@ npm install
 php artisan serve
 ```
 ## License
-[MIT](https://github.com/MasoudZarjani/crawler-with-laravel/blob/master/LICENSE)
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
